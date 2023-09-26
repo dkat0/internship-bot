@@ -1,11 +1,7 @@
 """
 /*******************************************************************************
- * Data Structures Post-AP - Mr. Perez
  *
- * Name: Daniel Kathein
- * Period: 7
- *
- * Description: This tool, Internship Bot, helps students find internships in
+ * This tool, Internship Bot, helps students find internships in
  * fields and geographical locations of their choice. It is built off a
  * web-scraping system using the requests and BeautifulSoup libraries, which
  * scrapes Chegg Internships (internships.com) for recent postings. Users can
